@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.deps.json
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\bin\Debug\netcoreapp2.1\BussinessLayer.pdb
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\bin\Debug\netcoreapp2.1\ModelLayer.dll
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\bin\Debug\netcoreapp2.1\ModelLayer.pdb
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.dll
+C:\Users\Admin\source\repos\DemoProject\BussinessLayer\obj\Debug\netcoreapp2.1\BussinessLayer.pdb

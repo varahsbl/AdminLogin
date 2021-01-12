@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\bin\Debug\netcoreapp2.1\ModelLayer.deps.json
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\bin\Debug\netcoreapp2.1\ModelLayer.dll
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\bin\Debug\netcoreapp2.1\ModelLayer.pdb
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\obj\Debug\netcoreapp2.1\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\obj\Debug\netcoreapp2.1\ModelLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\obj\Debug\netcoreapp2.1\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\obj\Debug\netcoreapp2.1\ModelLayer.dll
+C:\Users\Admin\source\repos\DemoProject\ModelLayer\obj\Debug\netcoreapp2.1\ModelLayer.pdb

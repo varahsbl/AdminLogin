@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.deps.json
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\bin\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\bin\Debug\netcoreapp2.1\ModelLayer.dll
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\bin\Debug\netcoreapp2.1\ModelLayer.pdb
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csproj.CopyComplete
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.dll
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.pdb
+C:\Users\Admin\source\repos\DemoProject\RepositoryLayer\obj\Debug\netcoreapp2.1\RepositoryLayer.csproj.CoreCompileInputs.cache
