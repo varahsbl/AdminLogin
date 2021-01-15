@@ -26,7 +26,16 @@ namespace RepositoryLayer.Service
             if (dbUser != null)
             {
                 this.adminContext.users.Remove(dbUser);
-                return true;
+                int result = this.adminContext.SaveChanges();
+                if (result > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+              
             }
             else
             {
